@@ -1,5 +1,6 @@
 # git-utils
 Utilities to make git easier for life
+Contact author: HMH (whalebeat@gmail.com)
 1. _GitPull.bat
 - Clone/pull default branch of a bunch of git repos
 - Repos are defined in _GetList.txt with folowing format:
